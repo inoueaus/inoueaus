@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inoueaus
 - 👀 I’m interested in React.js!
-- 🌱 I’m currently learning React.js/TypeScript
+- 🌱 I’m currently learning React.js/TypeScript and Vue.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
